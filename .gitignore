@@ -46,6 +46,7 @@ jspm_packages/
 web_modules/
 
 resources/firebase/
+target/
 
 # TypeScript cache
 *.tsbuildinfo
